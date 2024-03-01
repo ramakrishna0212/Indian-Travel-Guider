@@ -1,0 +1,57 @@
+* {
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title{
+    margin: -13px -9px;
+    background: rgba(0, 0, 0, 0.299);
+    font-size: x-large;
+    padding: 19px 46%;
+    font-weight: bold;
+    position: fixed;
+    width: 100%;
+} 
+.homepage{
+    font-size: large;
+    padding-top: 11.5%;
+    padding-left: 9%;
+}
+.image{
+    width: 20%;
+    float: left;
+    padding-top: 5%;
+    padding-left: 11.5%;
+    box-shadow: 17px 22px 27px rgba(0, 0, 0, 0.25);
+}
+.iteam{
+    width: 50%;
+    float: right;
+    font-size: larger;
+    padding-top: 3.5%;
+    padding-left: 13%;
+}
+.ingredent{
+    width: 50%;
+    float: right;
+    line-height: 47%;
+    font-size: larger;
+    padding-top: 0%;
+    padding-left: 9%;
+}
+.making{
+    padding-top: 42%;
+    padding-left: 49%;
+    font-size:large;
+}
+.videos{
+    font-weight: bold;
+    font-size: xx-large;
+    padding-top: 0%;
+    padding-left: 43%;
+}
+iframe{
+    padding-top: 4%;
+    padding-left: 17%;
+    width: 949px;
+    height:534px;
+}

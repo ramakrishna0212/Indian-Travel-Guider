@@ -1,0 +1,79 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    overflow: hidden;
+}
+.homepage{
+    font-size: large;
+    padding-top: 4.5%;
+    padding-left: 8.8%;
+    overflow: hidden;
+}
+.title{
+    margin: -78px;
+    padding: 16px;
+    background: rgba(0, 0, 0, 0.2);
+    padding-top: 6%;
+    padding-left: 50%;
+    font-size: x-large;
+    font-weight: bold;
+} 
+.placeone{
+    float: left;
+    padding-top: 6.5%;
+    padding-left: 29%;
+    font-size: large;
+    line-height: 238%;
+}
+.foodone{
+    margin-left: 51%;
+    padding-top: 6.5%;
+    padding-left: 12.5%;
+    font-size: large;
+    line-height: 228%;
+}
+.help{ 
+    padding-top: 4.5%;
+    padding-left: 1272.5%;
+}
+ul {
+    list-style: none;
+}
+
+ul li {
+    top: 0%;
+    display: inline-block;
+    position: relative;
+}
+
+ul li a {
+    margin: 0%;
+    display: block;
+    padding: 20px 25px;
+    color: #000000ac;
+    text-decoration: none;
+    text-align: center;
+    font-size: large;
+    
+}
+
+ul li ul.dropdown li {
+    display: block;
+}
+
+ul li ul.dropdown {
+    padding-top: 0%;
+    padding-left: 793%;
+    width: 600%;
+    position: absolute;
+    display: none;
+}
+
+ul li a:hover {
+    margin: 0%;
+}
+
+ul li:hover ul.dropdown {
+    display: block;
+}

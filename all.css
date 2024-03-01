@@ -1,0 +1,46 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title{
+    margin: -13px -9px;
+    background: rgba(0, 0, 0, 0.299);
+    font-size: x-large;
+    padding: 19px 46%;
+    font-weight: bold;
+    position: fixed;
+    width: 100%;
+}
+.img{
+    shape-margin: 87%;
+    width: 40%;
+    float: left;
+    padding-top: 4.5%;
+    padding-left: 13%;
+}
+.matter{
+    width: 39%;
+    float: right;
+    font-size: medium;
+    line-height: 212%;
+    padding-top: 2.5%;
+}
+.photo{
+    padding-top: 34%;
+    padding-left: 49%;
+    font-size: x-larger;
+}
+.videos{
+    font-weight: bold;
+    font-size: xx-large;
+    padding-top: 4%;
+    padding-left: 43%;
+}
+iframe{
+    padding-top: 6%;
+    padding-left: 17%;
+}
+.homepage{
+    font-size: large;
+    padding-top: 12%;
+    padding-left: 9%;
+}

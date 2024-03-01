@@ -1,0 +1,50 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-image: url("https://img.freepik.com/free-vector/simple-gradient-background-vector-winter-blue_53876-105767.jpg?w=1480&t=st=1690445657~exp=1690446257~hmac=e1b54e360e5454b3e3dd4bc34a9282debf3137d5fdd45a1b910b57641a246b1d");
+    background-repeat: no-repeat;
+    background-size: 185%;
+}
+.title{
+    margin: -13px -9px;
+    background: rgba(0, 0, 0, 0.299);
+    font-size: x-large;
+    padding: 19px 46%;
+    font-weight: bold;
+    position: fixed;
+    width: 100%;
+}
+.img{
+    shape-margin: 45%;
+    width: 40%;
+    float: left;
+    padding-top: 10.5%;
+}
+.matter{
+    width: 52%;
+    float: right;
+    font-size: medium;
+    line-height: 247%;
+    padding-top: 11.5%;
+}
+.photo{
+    padding-top: 40%;
+    padding-left: 0%;
+    font-size: larger;
+}
+.videos{
+    font-weight: bold;
+    font-size: xx-large;
+    padding-top: 4%;
+    padding-left: 43%;
+}
+iframe{
+    padding-top: 6%;
+    padding-left: 17%;
+}
+.homepage{
+    font-size: large;
+    padding-top: 12%;
+    padding-left: 9%;
+}
